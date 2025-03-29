@@ -1,0 +1,21 @@
+import java.util.regex.*;
+import java.util.*;
+
+public class URLExtractor {
+
+    public static List<String> extractURLs(String text) {
+        List<String> urls = new ArrayList<>();
+        Pattern pattern = Pattern.compile("(https?://\\S+)");
+        Matcher matcher = pattern.matcher(text);
+
+        while (matcher.find()) {
+            urls.add(matcher.group());
+        }
+        return urls;
+    }
+
+    public static void main(String[] args) {
+        String sampleText = "Check https://google.com or http://example.org for examples.";
+        System.out.println("URLs found: " + extractURLs(sampleText));
+    }
+}
