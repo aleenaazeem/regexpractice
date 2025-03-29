@@ -122,7 +122,7 @@ This project implements regular expression tasks in Java for email/phone validat
 
 ## ✅ Certificate of Completion  
 
-![Learning Regular Expressions](Screenshot%2025-03-29%011301.png)
+![Learning Regular Expressions](Screenshot%202025-03-29%011301.png)
 
 ---
 
