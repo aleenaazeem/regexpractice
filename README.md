@@ -121,8 +121,8 @@ This project implements regular expression tasks in Java for email/phone validat
 ---
 
 ## ✅ Certificate of Completion  
-Include your LinkedIn Learning Certificate for **Learning Regular Expressions** here.
 
+![Learning Regular Expressions](Screenshot%2025-03-29%011301.png)
 ---
 
 ## ✅ Source Code  
