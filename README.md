@@ -46,8 +46,7 @@ This project implements regular expression tasks in Java for email/phone validat
 **Invalid:** +93-647-333-2211, 289--453-2284, 4165557890  
 
 **Fig 2:**  
-![Phone Validation Output](screenshots/Screenshot%202025-03-28%20231325.png)
-![Fig 2](screenshots/Screenshot%202025-03-28%20231325.png)
+![Phone Validation Output](Screenshot%202025-03-28%20231325.png)
 
 ---
 
@@ -61,7 +60,7 @@ This project implements regular expression tasks in Java for email/phone validat
 `[2025-03-28, 2025-03-29, 1990-05-05]`  
 
 **Fig 3:**  
-![Date Extraction Output](screenshots/Screenshot%202025-03-28%20232035.png)
+![Date Extraction Output](Screenshot%202025-03-28%20232035.png)
 
 ---
 
@@ -75,7 +74,7 @@ This project implements regular expression tasks in Java for email/phone validat
 `[https://google.com, http://example.org]`
 
 **Fig 4:**  
-![URL Extraction Output](screenshots/Screenshot%202025-03-28%20232400.png)
+![URL Extraction Output](Screenshot%202025-03-28%20232400.png)
 
 ---
 
@@ -89,7 +88,7 @@ This project implements regular expression tasks in Java for email/phone validat
 `[(416) 823-7784, 647-392-4482, 905 625 2324]`
 
 **Fig 5:**  
-![Phone Number Extraction Output](screenshots/Screenshot%202025-03-28%20232807.png)
+![Phone Number Extraction Output](Screenshot%202025-03-28%20232807.png)
 
 ---
 
@@ -103,7 +102,7 @@ This project implements regular expression tasks in Java for email/phone validat
 `[test_email@gmail.com, support@company.org]`
 
 **Fig 6:**  
-![Email Extraction Output](screenshots/Screenshot%202025-03-28%20233349.png)
+![Email Extraction Output](Screenshot%202025-03-28%20233349.png)
 
 ---
 
@@ -117,7 +116,7 @@ This project implements regular expression tasks in Java for email/phone validat
 `[$12.99, 14.00 CAD, $9.00]`
 
 **Fig 7:**  
-![Price Extraction Output](screenshots/Screenshot%202025-03-28%20233713.png)
+![Price Extraction Output](Screenshot%202025-03-28%20233713.png)
 
 ---
 
