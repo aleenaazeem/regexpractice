@@ -47,6 +47,7 @@ This project implements regular expression tasks in Java for email/phone validat
 
 **Fig 2:**  
 ![Phone Validation Output](screenshots/Screenshot%202025-03-28%20231325.png)
+![Fig 2](screenshots/Screenshot%202025-03-28%20231325.png)
 
 ---
 
