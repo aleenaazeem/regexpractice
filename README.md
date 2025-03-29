@@ -30,7 +30,7 @@ This project implements regular expression tasks in Java for email/phone validat
 - Username9@-domain.com  
 
 **Fig 1:**  
-![Email Validation Output](screenshots/Screenshot%202025-03-28%20231141.png)
+![Email Validation Output](Screenshot%202025-03-28%20231141.png)
 
 ---
 
